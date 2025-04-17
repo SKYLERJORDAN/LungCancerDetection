@@ -23,16 +23,6 @@ The goal of this project is to develop a classifier that can accurately predict 
 - Normalization or Standardization
 - Train-test split
 
-## 🏗️ Model Architecture
-
-- Built using **scikit-learn**
-- Algorithms tested:
-  - Logistic Regression
-  - Random Forest
-  - SVM
-  - KNN
-- Best performing model: _e.g., Random Forest_
-
 ## 📊 Evaluation Metrics
 
 - Accuracy
